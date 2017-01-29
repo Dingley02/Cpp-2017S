@@ -1,0 +1,1 @@
+This repositiry contains class work for C++ Spring 2016 clas with Dov Kruger
